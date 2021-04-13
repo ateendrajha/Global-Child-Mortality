@@ -53,10 +53,10 @@ Country List :
 Analysis perfomed by Ateendra Jha
 
 --------------------------
-Copyright :  All the analysis and interpretition are copyright of drateendrajha.com
+Copyright :  All the analysis and interpretitions are copyright of drateendrajha.com
 
 --------------------------
 Use of data :  You are free to use the data for non commercial purpose with acknoledgement of dratendrajha.com
 
 --------------------------
-In case of any query drop email on ajha@phaf.in
+In case of any query please drop email on ajha@phaf.in
