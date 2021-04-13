@@ -62,4 +62,4 @@ Use of data :  You are free to use the data for non commercial purpose with ackn
 In case of any query please drop email on ajha@phaf.in
 
 --------------------------
-Website : https://www.drateendrajha.com
+Website : https://www.drateendrajha.com/blog/tags/childmortality
